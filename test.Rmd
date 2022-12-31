@@ -4,6 +4,10 @@ author: "Isaiah"
 date: "2022-12-31"
 output: github_document
 ---
+```{r}
+x <- sqrt(pi)
+x
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

@@ -3,6 +3,13 @@ test
 Isaiah
 2022-12-31
 
+``` r
+x <- sqrt(pi)
+x
+```
+
+    ## [1] 1.772454
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
